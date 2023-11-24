@@ -32,7 +32,7 @@ nav a{
 
 .cap {
  
-    background-image: url(..imagens/banver.jpg);
+    background-image: url(imagens/banver.jpg);
     height: 230px;
   }
   
@@ -200,7 +200,7 @@ button {
 /* css do feminino */
 .fem {
 
-  background-image: url(..imagens/bannerf1.png);
+  background-image: url(imagens/bannerf1.png);
   height: 230px;
 }
 
@@ -247,7 +247,7 @@ button {
 /* css masculino */
 .masc {
  
-    background-image: url(..imagens/banmascu.png);
+    background-image: url(imagens/banmascu.png);
     height: 230px;
   }
 
